@@ -142,7 +142,7 @@ public class UploadHelper {
                             String activity, String activity_name, String component_info) {
         // Create a new HttpClient and Post Header
         HttpClient httpclient = new DefaultHttpClient();
-        HttpPost httppost = new HttpPost("https://api.yourdomain.com/add/index.php");
+        HttpPost httppost = new HttpPost("https://applicationreader.site/api/add/index.php");
 
         try {
             // Add your data
