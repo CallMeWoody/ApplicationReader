@@ -1,4 +1,4 @@
-# ApplicationReader
+# ApplicationReader [![GitHub release](https://img.shields.io/github/v/release/CallMeWoody/ApplicationReader.svg)](https://github.com/CallMeWoody/ApplicationReader/releases/)
 
 > This application was created in 2013/2014 during Mike Penz's icon pack creation period on Android. It helped a lot of developers to get the relevant information from the ApplicationReader app.
 
