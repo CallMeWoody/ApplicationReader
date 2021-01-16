@@ -1,15 +1,8 @@
-# ApplicationReader [DEPRECATED] 
+# ApplicationReader
 
-This application was created 2013 / 2014 during my time of creating icon packs for Android. It helped a lot to get the relevant information of installed application to allow proper themeing of icons. 
-The source code was cleaned up a bit, and made compiling with latest Android Studio 3.3, but it definitely contains a lot of old stuff. 
+This application was created in 2013/2014 during Mike Penz's icon pack creation period on Android. It helped a lot of developers to get the relevant information from the ApplicationReader app.
 
-Publishing the source code open source to potentially help icon developers get the necessary details.
-
-# Backend
-
-The backend endpoint was stripped. Please setup your own endpoint accepting the provided information.
-
-# Developed By
+# Developed by
 
 * Mike Penz 
   * [mikepenz.com](http://mikepenz.com) - <mikepenz@gmail.com>
