@@ -2,13 +2,13 @@
 
 This application was created in 2013/2014 during Mike Penz's icon pack creation period on Android. It helped a lot of developers to get the relevant information from the ApplicationReader app.
 
-# Developed by
+## Developed by
 
 * Mike Penz 
   * [mikepenz.com](http://mikepenz.com) - <mikepenz@gmail.com>
   * [paypal.me/mikepenz](http://paypal.me/mikepenz)
 
-# License
+## License
 
     Copyright 2019 Mike Penz
 
