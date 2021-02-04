@@ -15,8 +15,8 @@ android {
         applicationId 'com.mikepenz.applicationreader'
         minSdkVersion 19
         targetSdkVersion 28
-        versionCode 300
-        versionName "3.0.0"
+        versionCode 302
+        versionName "3.0.2"
 
         vectorDrawables.useSupportLibrary = true
 
